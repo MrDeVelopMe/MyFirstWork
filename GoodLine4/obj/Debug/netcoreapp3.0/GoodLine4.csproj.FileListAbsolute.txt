@@ -1,0 +1,11 @@
+D:\GoodLine Codes\GoodLine4\bin\Debug\netcoreapp3.0\GoodLine4.exe
+D:\GoodLine Codes\GoodLine4\bin\Debug\netcoreapp3.0\GoodLine4.deps.json
+D:\GoodLine Codes\GoodLine4\bin\Debug\netcoreapp3.0\GoodLine4.runtimeconfig.json
+D:\GoodLine Codes\GoodLine4\bin\Debug\netcoreapp3.0\GoodLine4.runtimeconfig.dev.json
+D:\GoodLine Codes\GoodLine4\bin\Debug\netcoreapp3.0\GoodLine4.dll
+D:\GoodLine Codes\GoodLine4\bin\Debug\netcoreapp3.0\GoodLine4.pdb
+D:\GoodLine Codes\GoodLine4\obj\Debug\netcoreapp3.0\GoodLine4.csprojAssemblyReference.cache
+D:\GoodLine Codes\GoodLine4\obj\Debug\netcoreapp3.0\GoodLine4.AssemblyInfoInputs.cache
+D:\GoodLine Codes\GoodLine4\obj\Debug\netcoreapp3.0\GoodLine4.AssemblyInfo.cs
+D:\GoodLine Codes\GoodLine4\obj\Debug\netcoreapp3.0\GoodLine4.dll
+D:\GoodLine Codes\GoodLine4\obj\Debug\netcoreapp3.0\GoodLine4.pdb
